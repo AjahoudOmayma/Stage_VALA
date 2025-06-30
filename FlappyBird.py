@@ -44,3 +44,20 @@ class Bird:
         self.height = self.y       # Record the height at the moment of the jump
 
 
+class Pipe:
+
+
+
+
+class Base:
+    
+
+def blitRotateCenter(surf, image, topleft, angle):
+       #Rotates an image around its center and draws (blits) it on the screen.
+
+    
+
+def draw_window(win, birds, pipes, base, score, gen, pipe_ind):
+       #Draws the entire game screen including background, birds, pipes, base, and score.
+
+    
